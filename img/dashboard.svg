@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="914.783" height="749.349" viewBox="0 0 914.783 749.349">
+  <defs>
+    <filter id="cardBg" x="52.347" y="0" width="862.437" height="749.349" filterUnits="userSpaceOnUse">
+      <feOffset dy="50" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur"/>
+      <feFlood flood-color="#1f305d" flood-opacity="0.259"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="cardBg-2" x="0" y="179.06" width="861.61" height="488.813" filterUnits="userSpaceOnUse">
+      <feOffset dy="100" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur-2"/>
+      <feFlood flood-color="#1f485d" flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#00829b"/>
+    </linearGradient>
+    <filter id="Rectangle_7" x="473.485" y="253.451" width="59.274" height="32.977" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-3"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_264" data-name="Grupo 264" transform="translate(-875.479 -2314.453)">
+    <g id="Grupo_212" data-name="Grupo 212" transform="translate(1076.326 2412.953)">
+      <g transform="matrix(1, 0, 0, 1, -200.85, -98.5)" filter="url(#cardBg)">
+        <rect id="cardBg-3" data-name="cardBg" width="565.437" height="452.349" rx="8" transform="translate(200.85 98.5)" fill="#fff"/>
+      </g>
+      <circle id="Mask" cx="38.773" cy="38.773" r="38.773" transform="translate(38.773 38.773)" fill="#00829b" opacity="0.79"/>
+      <path id="divider" d="M0,.5H487.891" transform="translate(38.773 328.261)" fill="none" stroke="#e6ebf0" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1"/>
+      <rect id="Retângulo_503" data-name="Retângulo 503" width="151.86" height="17.771" rx="7" transform="translate(147.014 51.697)" fill="#00829b"/>
+      <rect id="Retângulo_507" data-name="Retângulo 507" width="100.163" height="17.771" rx="7" transform="translate(147.014 82.392)" fill="#cce6eb" opacity="0.3"/>
+      <rect id="Retângulo_504" data-name="Retângulo 504" width="473.351" height="17.771" rx="7" transform="translate(38.773 177.709)" fill="#00829b" opacity="0.2"/>
+      <rect id="Retângulo_505" data-name="Retângulo 505" width="366.726" height="17.771" rx="7" transform="translate(38.773 211.635)" fill="#00829b" opacity="0.2"/>
+      <rect id="Retângulo_506" data-name="Retângulo 506" width="281.103" height="17.771" rx="7" transform="translate(38.773 245.561)" fill="#00829b" opacity="0.2"/>
+      <g id="Grupo_200" data-name="Grupo 200" transform="translate(424.885 58.159)">
+        <rect id="Rectangle_6" data-name="Rectangle 6" width="101.779" height="38.773" rx="16" fill="#cce6eb" opacity="0.3"/>
+        <rect id="Rectangle_6-2" data-name="Rectangle 6" width="47.709" height="6.462" rx="3.231" transform="translate(27.035 16.155)" fill="#cce6eb" opacity="0.3"/>
+      </g>
+      <g id="Grupo_201" data-name="Grupo 201" transform="translate(38.773 371.573)">
+        <rect id="Rectangle_6-3" data-name="Rectangle 6" width="101.779" height="38.773" rx="16" transform="translate(0 0)" fill="#00829b"/>
+        <rect id="Rectangle_6-4" data-name="Rectangle 6" width="47.709" height="6.462" rx="3.231" transform="translate(27.035 16.155)" fill="#fcfcfd" opacity="0.3"/>
+      </g>
+      <g id="Grupo_202" data-name="Grupo 202" transform="translate(232.636 371.573)">
+        <rect id="Rectangle_6-5" data-name="Rectangle 6" width="101.779" height="38.773" rx="16" transform="translate(0 0)" fill="#00829b"/>
+        <rect id="Rectangle_6-6" data-name="Rectangle 6" width="47.709" height="6.462" rx="3.231" transform="translate(27.035 16.155)" fill="#fafafb" opacity="0.3"/>
+      </g>
+      <g id="Grupo_203" data-name="Grupo 203" transform="translate(424.886 371.573)">
+        <rect id="Rectangle_6-7" data-name="Rectangle 6" width="101.779" height="38.773" rx="16" transform="translate(0 0)" fill="#00829b"/>
+        <rect id="Rectangle_6-8" data-name="Rectangle 6" width="47.709" height="6.462" rx="3.231" transform="translate(27.035 16.155)" fill="#fff" opacity="0.3"/>
+      </g>
+    </g>
+    <g id="Grupo_259" data-name="Grupo 259" transform="translate(1023.979 2542.013)">
+      <g id="Earnings">
+        <g transform="matrix(1, 0, 0, 1, -148.5, -227.56)" filter="url(#cardBg-2)">
+          <rect id="cardBg-4" data-name="cardBg" width="564.61" height="191.813" rx="8" transform="translate(148.5 227.56)" fill="#fff"/>
+        </g>
+        <g id="eth" transform="translate(18.563 114.469)">
+          <rect id="Rectangle_6-9" data-name="Rectangle 6" width="91.266" height="24.75" rx="12.375" fill="#00829b" opacity="0.3"/>
+        </g>
+        <g id="chart" transform="translate(166.964 24.75)">
+          <rect id="bar" width="23.203" height="123.75" transform="translate(31.036 0)" fill="#f6f8fa"/>
+          <rect id="bar-2" data-name="bar" width="23.203" height="123.75" transform="translate(147.052 0)" fill="#f6f8fa"/>
+          <rect id="bar-3" data-name="bar" width="23.203" height="123.75" transform="translate(263.068 0)" fill="#f6f8fa"/>
+          <rect id="bar-4" data-name="bar" width="23.203" height="123.75" transform="translate(89.044 0)" fill="#f6f8fa"/>
+          <rect id="bar-5" data-name="bar" width="23.203" height="123.75" transform="translate(205.06 0)" fill="#f6f8fa"/>
+          <rect id="bar-6" data-name="bar" width="23.203" height="123.75" transform="translate(320.302 0)" fill="#f6f8fa"/>
+          <rect id="bar-7" data-name="bar" width="23.203" height="123.75" transform="translate(60.427 0)" fill="#f6f8fa"/>
+          <rect id="bar-8" data-name="bar" width="23.203" height="123.75" transform="translate(175.669 0)" fill="#f6f8fa"/>
+          <rect id="bar-9" data-name="bar" width="23.203" height="123.75" transform="translate(291.685 0)" fill="#f6f8fa"/>
+          <rect id="bar-10" data-name="bar" width="23.203" height="123.75" transform="translate(118.435 0)" fill="#f6f8fa"/>
+          <rect id="bar-11" data-name="bar" width="23.203" height="123.75" transform="translate(233.677 0)" fill="#f6f8fa"/>
+          <rect id="bar-12" data-name="bar" width="23.203" height="123.75" transform="translate(349.693 0)" fill="#f6f8fa"/>
+          <path id="gradientFill" d="M320.2,92.039H0V50.552l30.185-39.6L59.774,29.269,87.209,11.492l28.857,77.984L145.4,7.049,173.62,52.582,204.613,22.2,232.3,33.821l27.921-22.329L290.361,22.2,320.2,0" transform="translate(41.864 30.938)" opacity="0.2" fill="url(#linear-gradient)"/>
+          <path id="graphLine" d="M0,50.617l29.74-40.8L59.265,29.451,87.251,10.762l28.516,78.183,29.39-82.966,28.4,46.91,30.833-31.3,27.628,12.458,28.183-23.29,30.131,10.831L319.43,0" transform="translate(42.638 31.711)" fill="none" stroke="#00829b" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.65"/>
+          <circle id="Oval_6_Copy_11" data-name="Oval 6 Copy 11" cx="3.48" cy="3.48" r="3.48" transform="translate(184.177 33.258)" fill="#fff" stroke="#4360df" stroke-miterlimit="10" stroke-width="1.65"/>
+          <text id="Mar" transform="translate(42.201 136.495)" fill="#79828b" font-size="7" font-family="Helvetica"><tspan x="-6.028" y="0">Mar</tspan></text>
+          <text id="_100" data-name="$100" transform="translate(16.99 108.651)" fill="#79828b" font-size="7" font-family="Helvetica"><tspan x="-15.572" y="0">$100</tspan></text>
+          <text id="_150" data-name="$150" transform="translate(16.99 78.487)" fill="#79828b" font-size="7" font-family="Helvetica"><tspan x="-15.572" y="0">$150</tspan></text>
+          <text id="_200" data-name="$200" transform="translate(17 49.096)" fill="#79828b" font-size="7" font-family="Helvetica"><tspan x="-15.572" y="0">$200</tspan></text>
+          <text id="_250" data-name="$250" transform="translate(17 18.932)" fill="#79828b" font-size="7" font-family="Helvetica"><tspan x="-15.572" y="0">$250</tspan></text>
+          <text id="May" transform="translate(99.808 136.613)" fill="#79828b" font-size="6" font-family="Helvetica"><tspan x="-5.667" y="0">May</tspan></text>
+          <text id="Jul" transform="translate(155.99 135.495)" fill="#79828b" font-size="6" font-family="Helvetica"><tspan x="-3.835" y="0">Jul</tspan></text>
+          <text id="Sep" transform="translate(213.036 135.495)" fill="#79828b" font-size="6" font-family="Helvetica"><tspan x="-5.338" y="0">Sep</tspan></text>
+          <text id="Jan" transform="translate(328.948 135.613)" fill="#79828b" font-size="5" font-family="Helvetica"><tspan x="-4.031" y="0">Jan</tspan></text>
+          <text id="Nov" transform="translate(272.817 136.495)" fill="#79828b" font-size="7" font-family="Helvetica"><tspan x="-6.224" y="0">Nov</tspan></text>
+          <g transform="matrix(1, 0, 0, 1, -315.46, -252.31)" filter="url(#Rectangle_7)">
+            <g id="Rectangle_7-2" data-name="Rectangle 7" transform="translate(477.98 256.95)" fill="#fff" stroke="#6271d2" stroke-miterlimit="10" stroke-width="1.1">
+              <rect width="50.274" height="23.977" rx="11.988" stroke="none"/>
+              <rect x="0.55" y="0.55" width="49.174" height="22.877" rx="11.438" fill="none"/>
+            </g>
+          </g>
+          <text id="_226" data-name="$226" transform="translate(184.581 20.004)" fill="#42505c" font-size="10" font-family="Helvetica" letter-spacing="0.042em"><tspan x="-11.748" y="0">$226</tspan></text>
+        </g>
+      </g>
+      <rect id="Retângulo_486" data-name="Retângulo 486" width="107.508" height="10.828" rx="5.414" transform="translate(19.336 21.656)" fill="#00829b"/>
+      <rect id="Retângulo_487" data-name="Retângulo 487" width="109.055" height="10.828" rx="5.414" transform="translate(19.336 60.328)" fill="#00829b" opacity="0.3"/>
+      <rect id="Retângulo_488" data-name="Retângulo 488" width="34.805" height="10.828" rx="5.414" transform="translate(19.336 81.984)" fill="#00829b" opacity="0.3"/>
+      <rect id="Retângulo_490" data-name="Retângulo 490" width="73.477" height="6.961" rx="3.48" transform="translate(19.336 153.141)" fill="#00829b" opacity="0.3"/>
+      <rect id="Retângulo_491" data-name="Retângulo 491" width="63.422" height="6.961" rx="3.48" transform="translate(27.844 123.75)" fill="#fff" opacity="0.44"/>
+    </g>
+  </g>
+</svg>
